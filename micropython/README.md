@@ -1,4 +1,4 @@
-# NodeMCU
+# MicroPython on NodeMCU
 
 ## Prerequisites
 
