@@ -1,2 +1,4 @@
 *.bin
 mqtt.py
+*.out
+*.log
