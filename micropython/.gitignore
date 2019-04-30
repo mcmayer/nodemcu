@@ -2,3 +2,4 @@
 mqtt.py
 *.out
 *.log
+credentials.py
